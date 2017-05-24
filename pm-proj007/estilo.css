@@ -29,7 +29,7 @@ header {
 
 header h1 {
     margin: 0;
-    background-image: url(/screenshots/logo2.png);
+    background-image: url(../screenshots/logo2.png);
     background-repeat: no-repeat;
     width: 177px;
     height: 76px;
@@ -64,7 +64,7 @@ header nav li a {
     font-size: 20px;
    }
 section#topo {
-    background-image: url(/screenshots/fundo.png);
+    background-image: url(../screenshots/fundo.png);
     background-size: cover;
     height: 700px;
 }
@@ -139,7 +139,7 @@ section#depoimento p {
 section#convite {
     padding-top: 150px;
     padding-bottom: 150px;
-    background-image: url(/screenshots/fundo-convite.png);
+    background-image: url(../screenshots/fundo-convite.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -165,7 +165,7 @@ section#convite input {
 }
 
 section#convite button {
-    background-image: url('/screenshots/botao-convite.png');
+    background-image: url(../screenshots/botao-convite.png);
     background-repeat: no-repeat;
     background-color: transparent;
     border: none;

@@ -10,7 +10,7 @@ aside {
 }
 
 aside h1 {
-    background-image:url(/screenshots/nucliot-logo.png);
+    background-image:url(../screenshots/nucliot-logo.png);
     background-repeat: no-repeat;
     margin: 0px;
     height: 60px;
@@ -157,7 +157,7 @@ form select {
 }
 
 form li.ok {
-    background-image: url(/screenshots/ok.png);
+    background-image: url(../screenshots/ok.png);
     background-repeat: no-repeat;
     background-position: top 10px right;
     width: 430px;

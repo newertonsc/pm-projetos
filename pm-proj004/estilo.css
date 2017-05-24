@@ -9,14 +9,14 @@ li {
     background-color: #4a4a4a;
     margin-bottom: 3px;
     padding: 60px 40px 60px 100px;
-    background-image: url('/screenshots/pendente.png');
+    background-image: url(../screenshots/pendente.png);
     background-repeat: no-repeat;
     background-position: 40px center;
 }
 
 li.feito {
     background-color: #27ae60;
-    background-image: url('/screenshots/feito.png');
+    background-image: url(../screenshots/feito.png);
 }
 
 li.feito:hover {
@@ -31,7 +31,7 @@ a {
     color: #fff;
     text-decoration: none;
     display: block;
-    background-image: url('/screenshots/seta.png');
+    background-image: url(../screenshots/seta.png);
     background-repeat: no-repeat;
     background-position: right center;
     font-family: 'Oswald', sans-serif;
